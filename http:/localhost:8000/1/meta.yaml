@@ -1,0 +1,4 @@
+artifact_location: file:http://localhost:8000/1
+experiment_id: '1'
+lifecycle_stage: active
+name: /experiment-name
